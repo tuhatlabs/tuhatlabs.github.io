@@ -1,0 +1,33 @@
+Deney Adı: HM-5B Motor Güç Artış Testi
+Tarih: 14.03.2037
+Sorumlu Personel: Orhan
+
+1. Amaç
+
+  HM-5B motorunun önceki modele göre güç artışını doğrulamak.
+
+2. Metodoloji
+
+  Tam güç ateşleme
+
+  12 sensör ile çoklu veri toplanması
+
+  Yanma odası basınç ölçümü
+
+3. Süreç
+
+  Motor maksimum 47.000 N itki üretti.
+
+4. Bulgular
+
+  Beklenenden %8 daha yüksek performans
+
+  Yakıt tüketimi biraz fazla
+
+5. Sonuç
+
+  Motor SSTO için kullanılabilir.
+
+6. Risk
+
+  Aşırı titreşim: Orta
