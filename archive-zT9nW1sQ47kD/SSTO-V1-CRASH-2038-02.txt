@@ -1,0 +1,159 @@
+Olay Kodu: SSTO-V1/CRASH-2038-02
+Olay Tarihi: 28 Şubat 2038
+Gizlilik Seviyesi: SEVİYE–4 (Sadece Yönetim ve Teknik Üst Kurul)
+Hazırlayan: Tuhat Aerospace Kaza İnceleme Kurulu
+Rapor Tarihi: 12 Mart 2038
+
+1. OLAYIN TANIMI
+
+  28 Şubat 2038 tarihinde, Tuhat Aerospace tarafından geliştirilen tek aşamalı yörünge aracı prototipi SSTO-V1, planlanan ilk atmosferik test uçuşu sırasında kontrol kaybına uğramış, sert iniş sonucu parçalanmış, ve araç tamamen kullanılamaz hale gelmiştir.
+
+  Pilot, olay sırasında ölmüştür.
+  (İsim gizlilik nedeniyle raporda belirtilmemiştir; şirket iç kayıtlarında mevcuttur.)
+
+2. UÇUŞUN AMACI
+
+  SSTO-V1’in motor yeniden ateşleme kabiliyetinin test edilmesi
+
+  19 km irtifaya tırmanış
+
+  T-OS otonom denge kontrolünün görev esnasında davranışının ölçülmesi
+
+  Aerodinamik ısı testleri
+
+3. ÖN UÇUŞ KOŞULLARI
+
+  Hava Durumu: Açık, rüzgar 7–11 m/s
+  Yakıt: %98 dolu
+  Motor: HM-5B hibrit roket motoru
+  Uçuş Yazılımı: T-OS v3.2 — final sürüm
+  Pilot: Sertifikalı test pilotu, 2.100 saat uçuş deneyimi
+
+  Araç, uçuş öncesi kontrol listesinden geçmiştir.
+  Hafif bir yakıt akış gecikmesi daha önce tespit edilmiş ancak tolerans içinde sayılmıştır.
+
+4. UÇUŞ KRONOLOJİSİ
+  00:00 — Kalkış
+
+    Araç normal şekilde kalktı, motor nominal değerlerde çalıştı.
+
+  00:47 — 6,800 m irtifa
+
+    Küçük bir telemetri veri sıçraması görüldü (0.2 saniye).
+    T-OS kendini stabilize etti. Problem kaydedildi.
+
+  01:39 — 14,900 m irtifa
+
+    Motor yeniden ateşleme için hazırlık başlatıldı.
+    Yakıt akışında beklenen gecikmenin 2 katı yaşandı.
+
+  01:41 — Motor Yeniden Ateşleme
+
+    Motor geç ve dengesiz ateşledi.
+    Bu esnada aracın burun açısı 6° sağa kaydı.
+
+  01:42 — Kontrol Kaybı Başlangıcı
+
+    Araç ani bir şekilde sağa yatmaya başladı.
+    Pilot manuel kontrol girişiminde bulundu ancak yanıt yetersizdi.
+
+  01:44 — Tam Kontrol Kaybı
+
+    T-OS acil durum moduna geçti.
+    Ancak sensörlerden biri yanlış veri besledi (bkz. bölüm 6).
+
+  01:47 — Yüzeysel İrtifa Kaybı
+
+    Araç hızla alçalırken pilot fırlatma kolunu çekti.
+    Fırlatma mekanizması ateşlendi ancak geç kaldı.
+
+  01:48 — Çarpışma
+
+    Araç 400 m/s hız ile yere çarptı.
+    Tam kayıp.
+
+5. KAZA ALANI İNCELEMESİ
+  Bulunan parçalar:
+
+    Gövde bölünmüş halde
+
+    Motor bölmesi tamamen parçalanmış
+
+    Yakıt tankı infilak etmemiş, iç basınç düşük
+
+    Uçuş bilgisayarı kısmen sağlam
+
+  Pilot kabini:
+
+    Kısmen çökmüş, fırlatma sistemi çalışmış ancak zamanlama nedeniyle kurtarma gerçekleşmemiş.
+
+  Yangın durumu:
+
+    Yakıt türünden dolayı geniş yangın oluşmamıştır.
+
+6. TEKNİK BULGULAR
+  6.1 Sensör Arızası
+
+    Sağ kanattaki Atalet Ölçüm Birimi (IMU) test sırasında yanlış değerler üretmiştir.
+    Arıza türü: Sıcaklık kaynaklı drift
+    Sonuç: T-OS hatalı denge hesaplaması yapmış.
+
+  6.2 Motor Yeniden Ateşlemesi
+
+    Yakıt akış gecikmesi tolerans üstüne çıkmış, motor dengesiz ateşlemiştir.
+    Bu durum aracın kontrol yüzeylerine aşırı yük bindirmiştir.
+
+  6.3 T-OS Acil Durum Tepkisi
+
+    Otonom yazılım doğru mod değişimini yapmış ancak sensör verisi hatalı olduğu için yanlış kontrol komutları üretmiştir.
+
+  6.4 Pilot Müdahalesi
+
+    Pilotun manuel müdahalesi, kontrol yüzeylerinin yanıt süresi çok düştüğü için etkisiz kalmıştır.
+
+7. KAZANIN NEDENİ
+
+  Kaza Kurulu aşağıdaki karar sonucuna varmıştır:
+
+  Birincil neden:
+    Sağ kanat IMU sensöründe sıcaklık kaynaklı hata oluşması ve T-OS’ın bu hatayı filtreleyememesi.
+
+  İkincil neden:
+    Motor yeniden ateşleme sırasında yakıt akış gecikmesi ve dengesiz motor davranışı.
+
+8. SORUMLULUK DEĞERLENDİRMESİ
+
+  Bu kazada pilot hatası tespit edilmemiştir.
+  Hata donanım ve yazılım kaynaklıdır.
+
+  Özellikle:
+
+  Sensörlerin yüksek irtifa sıcaklık farklarına karşı yeterince korunmamış olması
+
+  Yakıt akış gecikmesinin önceden bilindiği halde kritik seviyeye çıkabileceğinin hesaba katılmaması
+
+  T-OS’ın sensör doğrulama modülünün eksik tasarlanması
+
+  sorumlu faktörlerdir.
+
+9. ÖNERİLER
+  9.1 Teknik Geliştirmeler
+
+    Tüm IMU sensörlerine termal yalıtım uygulanmalı.
+
+    T-OS yazılımına “sensör çapraz doğrulama” modülü eklenmeli.
+
+    Yeniden ateşleme sistemi tamamen revize edilmeli.
+
+  9.2 Organizasyonel Değişiklikler
+
+    Uçuş öncesi prosedürlere ek testler eklenmeli.
+
+    Kritik sensor logları çift kayıtlı hale getirilmeli.
+
+10. SONUÇ
+
+  Kaza, “çoklu sistem hatalarının aynı uçuşta çakışması” sonucu gerçekleşmiştir.
+  Araç tamamen kaybedilmiş, pilot hayatını kaybetmiştir.
+
+  Program geçici olarak durdurulmuştur.
