@@ -6,7 +6,7 @@ Rapor Tarihi: 12 Mart 2038
 
 1. OLAYIN TANIMI
 
-  28 Şubat 2038 tarihinde, Tuhat Aerospace tarafından geliştirilen tek aşamalı yörünge aracı prototipi SSTO-V1, planlanan ilk atmosferik test uçuşu sırasında kontrol kaybına uğramış, sert iniş sonucu parçalanmış, ve araç tamamen kullanılamaz hale gelmiştir.
+  28 Şubat 2038 tarihinde, Tuhat Aerospace tarafından geliştirilen tek aşamalı yörünge aracı prototipi SSTO-V1, planlanan ilk atmosferik test uçuşu sırasında        kontrol kaybına uğramış, sert iniş sonucu parçalanmış, ve araç tamamen kullanılamaz hale gelmiştir.
 
   Pilot, olay sırasında ölmüştür.
   (İsim gizlilik nedeniyle raporda belirtilmemiştir; şirket iç kayıtlarında mevcuttur.)
