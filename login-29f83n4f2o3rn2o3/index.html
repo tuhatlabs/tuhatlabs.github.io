@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Access Login</title>
+<style>
+body {
+    background:black;
+    color:#00ff99;
+    font-family:Consolas, monospace;
+    padding:40px;
+}
+input {
+    background:#111;
+    border:1px solid #00ff99;
+    color:#00ff99;
+    padding:6px;
+}
+button {
+    background:#00ff99;
+    color:black;
+    padding:6px 12px;
+    border:none;
+    cursor:pointer;
+    font-weight:bold;
+}
+</style>
+</head>
+<body>
+
+<h2>SECURE ACCESS PORTAL</h2>
+<p>Enter authorization key:</p>
+
+<input type="password" id="pw">
+<button onclick="go()">LOGIN</button>
+
+<script>
+function go() {
+    let p = document.getElementById("pw").value;
+
+    // 🔐 ŞİFRE BURADA → istediğin gibi değiştir
+    if (p === "alpha442") {
+        window.location = "../vault/index.html";
+    } else {
+        alert("ACCESS DENIED");
+    }
+}
+</script>
+
+</body>
+</html>
