@@ -1,0 +1,33 @@
+Deney Adı: Full-Scale Uçuş Simülasyonu
+Tarih: 12.10.2037
+Personel: Test Pilot Emre
+
+1. Amaç
+
+  SSTO-V1’in uçuş kontrol ve stabilite yazılımını simülasyonda doğrulamak.
+
+2. Metodoloji
+
+  3 tam görev profili
+
+  1 acil durum senaryosu
+
+  Motor arızası simülasyonu
+
+3. Süreç
+
+  Pilot Emre 3 saatlik görev çalışması yaptı.
+
+4. Bulgular
+
+  İniş stabil
+
+  T-OS’ın kararsız veri sıçraması: 0.2 saniye
+
+5. Sonuç
+
+  Uçuş testine geçişe şartlı onay verildi.
+
+6. Risk
+
+  Gerçek uçuşta sensör uyuşmazlığı riski: Orta
