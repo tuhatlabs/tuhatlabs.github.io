@@ -1,0 +1,35 @@
+Deney Adı: HM-4A Hibrit Motor Tam Ateşleme
+Tarih: 17.05.2034
+Sorumlu Personel: Orhan (Test İdarecisi)
+
+1. Amaç
+
+  Yeni motor modelinin tam güç altında kararlılığını test etmek.
+
+2. Metodoloji
+
+  Tam güç ateşleme: 40 saniye
+
+  Basınç, titreşim, ısı verileri toplandı
+
+  Yakıt tüketimi ölçüldü
+
+3. Süreç
+
+  Ateşleme 42 saniye sürdü, planlanan zamanın %5 üstünde.
+
+4. Bulgular
+
+  Basınç dalgalanması < %3
+
+  Aşırı ısınma gözlenmedi
+
+  Stabil yanma profili
+
+5. Sonuç
+
+  HM-4A motoru test kriterlerini başarıyla geçti.
+
+6. Risk
+
+  Nozul çatlama ihtimali: Düşük
