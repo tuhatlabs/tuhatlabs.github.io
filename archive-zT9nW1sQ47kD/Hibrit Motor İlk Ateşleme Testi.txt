@@ -35,6 +35,6 @@ Sorumlu Personel: Orhan
 
 6. Risk Değerlendirmesi
 
-Yakıt karışımının fazla ısınma riski: Düşük
+  Yakıt karışımının fazla ısınma riski: Düşük
 
-Gövde çatlama riski: Orta
+  Gövde çatlama riski: Orta
