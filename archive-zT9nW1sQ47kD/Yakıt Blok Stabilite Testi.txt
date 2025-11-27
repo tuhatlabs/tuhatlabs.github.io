@@ -1,0 +1,33 @@
+Deney Adı: Yakıt Blok Stabilite Testi
+Tarih: 02.03.2033
+Sorumlu Personel: Orhan
+
+1. Amaç
+
+  Yakıt bloklarının ısı altında deformasyon davranışını incelemek.
+
+2. Metodoloji
+
+  60°C → 120°C sıcaklık artışı
+
+  20 dakikalık ısı dayanım testi
+
+  Termal kamera ile izleme
+
+3. Süreç
+
+  Yakıt blokları 100°C üstünde çatlama eğilimi gösterdi.
+
+4. Bulgular
+
+  Blok yapısında %12 yüzey kırılması
+
+  Sıcaklık dayanımı yetersiz
+
+5. Sonuç
+
+  Yakıt formülünün revizyonuna karar verildi.
+
+6. Risk
+
+  Yüksek sıcaklık altında ani yanma riski Orta-Yüksek
