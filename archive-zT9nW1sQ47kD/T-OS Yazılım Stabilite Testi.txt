@@ -1,0 +1,34 @@
+Deney Adı: T-OS Yazılım Stabilite Testi
+Tarih: 19.12.2034
+Sorumlu Birim: Flight Systems
+Sorumlu Personel: Berra
+
+1. Amaç
+
+  Otonom kontrol algoritmasının hata toleransını ölçmek.
+
+2. Metodoloji
+
+  Rastgele sensör arızası simülasyonu
+
+  Verisiz sürüş moduna geçiş testi
+
+  CPU yük analizi
+
+3. Süreç
+
+  Algoritma 22 adet hata senaryosu ile zorlandı.
+
+4. Bulgular
+
+  Sistem kendi kendini resetleme süresi: 0.7 saniye
+
+  Kritik hata gözlenmedi
+
+5. Sonuç
+
+  T-OS temel otonomi görevlerini yerine getirebilir durumda.
+
+6. Risk
+
+  Ağ bağlantı kaybında gecikme ihtimali: Orta
