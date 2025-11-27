@@ -1,0 +1,32 @@
+Deney Adı: SSTO-V1 Ön Uçuş Yer Testleri
+Tarih: 03.02.2038
+
+1. Amaç
+
+  Uçağın kalkış öncesi tüm sistemlerinin hatasız çalıştığını doğrulamak.
+
+2. Metodoloji
+
+  Hidrolik sistem kontrolü
+
+  Yakıt tank basınç testi
+
+  T-OS yazılım final doğrulaması
+
+3. Süreç
+
+  Sistemler sırayla çalıştırıldı.
+
+4. Bulgular
+
+  Yakıt akışında çok hafif gecikme
+
+  Hidrolik basınç stabil
+
+5. Sonuç
+
+  28 Şubat 2038 test uçuşu için onay verildi.
+
+6. Risk
+
+  Yakıt akış gecikmesi: Düşük-Orta
