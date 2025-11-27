@@ -1,0 +1,40 @@
+Deney Adı: Hibrit Motor İlk Ateşleme Testi
+Tarih: 21.06.2032
+Sorumlu Birim: Propulsion Group
+Sorumlu Personel: Orhan — Baş Mühendis
+
+1. Amaç
+
+  Hibrit yakıt karışımının yanma kararlılığını ve düşük güçte ateşleme davranışını gözlemlemek.
+
+2. Metodoloji
+
+  Yakıt: Polimer + Nitrat bazlı karışım
+
+  Oksitleyici: %25 zengin karışım oksijen
+
+  5 saniyelik ateşleme planı
+
+  Basınç sensörleri ile veri toplama
+
+3. Süreç
+
+  Motor uzaktan tetikleme ile ateşlendi, toplam 4.8 saniye yanma gerçekleşti.
+
+4. Bulgular
+
+  Başlangıçta hafif titreşim gözlendi.
+
+  Yanma kararlı ilerledi.
+
+  Ortalama itki: 2.9 kN.
+
+5. Sonuç
+
+  Motor düşük güç seviyesinde çalışabilir durumda.
+
+6. Risk Değerlendirmesi
+
+Yakıt karışımının fazla ısınma riski: Düşük
+
+Gövde çatlama riski: Orta
