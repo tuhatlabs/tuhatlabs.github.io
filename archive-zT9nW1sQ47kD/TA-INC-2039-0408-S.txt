@@ -1,4 +1,4 @@
-Rapor No: TA-INC/2039-0408-S
+Rapor No: TA-INC-2039-0408-S
 Kapsam: Yalnızca Üst Yönetim Erişimine Açık
 Tarih: 8 Nisan 2039
 Hazırlayan: İç Denetim ve Güvenlik Birimi
@@ -10,9 +10,11 @@ Rapor Sınıfı: SEVİYE-4 GİZLİ
 
 2. Özet
 
-  Şirketin Mali İşler ve Sponsorluk Departmanı yöneticisi Efe [Soyadı Gizlenmiştir], diğer yöneticilerden tamamen bağımsız ve izin almadan, laboratuvar kaynaklarını kullanarak bir çiğköfte bazlı bilinç aktarım deneyi gerçekleştirmiştir.
+  Şirketin Mali İşler ve Sponsorluk Departmanı yöneticisi Efe ######, diğer yöneticilerden tamamen bağımsız ve izin almadan, laboratuvar kaynaklarını kullanarak 
+  bir çiğköfte bazlı bilinç aktarım deneyi gerçekleştirmiştir.
 
-  Deney sırasında hedef materyal çiğköfte olması gerekirken, Efe’nin tarif bilgisi ve teknik uzmanlık eksikliği nedeniyle ortaya çıkan biyokütle kısır benzeri bir yapıda olmuştur.
+  Deney sırasında hedef materyal çiğköfte olması gerekirken, Efe’nin tarif bilgisi ve teknik uzmanlık eksikliği nedeniyle ortaya çıkan biyokütle kısır benzeri bir 
+  yapıda olmuştur.
 
   Aktarım sonrası çalışanın biyolojik bedeni yaşamsal fonksiyonlarını yitirmiş, bilinç aktarımı geri döndürülemez şekilde kısır materyaline bağlı kalmıştır.
 
