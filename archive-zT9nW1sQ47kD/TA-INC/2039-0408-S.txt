@@ -1,0 +1,126 @@
+Rapor No: TA-INC/2039-0408-S
+Kapsam: Yalnızca Üst Yönetim Erişimine Açık
+Tarih: 8 Nisan 2039
+Hazırlayan: İç Denetim ve Güvenlik Birimi
+Rapor Sınıfı: SEVİYE-4 GİZLİ
+
+1. Olay Başlığı
+
+  Yetkisiz Bilinç Aktarımı – Hatalı Biyokütle Hazırlığı Sonucu Kalıcı “Kısır Tabanlı Bilinç Transferi” Vakası
+
+2. Özet
+
+  Şirketin Mali İşler ve Sponsorluk Departmanı yöneticisi Efe [Soyadı Gizlenmiştir], diğer yöneticilerden tamamen bağımsız ve izin almadan, laboratuvar kaynaklarını kullanarak bir çiğköfte bazlı bilinç aktarım deneyi gerçekleştirmiştir.
+
+  Deney sırasında hedef materyal çiğköfte olması gerekirken, Efe’nin tarif bilgisi ve teknik uzmanlık eksikliği nedeniyle ortaya çıkan biyokütle kısır benzeri bir yapıda olmuştur.
+
+  Aktarım sonrası çalışanın biyolojik bedeni yaşamsal fonksiyonlarını yitirmiş, bilinç aktarımı geri döndürülemez şekilde kısır materyaline bağlı kalmıştır.
+
+  Olay, Tuhat Aerospace tarihinde kayıtlara geçmiş en ciddi yetkisiz biyokognitif müdahalelerden biridir.
+
+3. Olayın Kronolojisi
+  3.1. Deneyin Başlangıcı
+
+    Efe, 8 Nisan 2039 sabahı saat 10:42’de laboratuvara kendi erişim kodlarıyla giriş yapmıştır.
+
+    Kamera kayıtlarına göre yanında “çeşitli gıda malzemeleri” olduğu görülmüştür.
+
+  3.2. Gönüllü Çalışan
+
+    Efe’nin ifadesine göre çalışan, “bilinç aktarımı için gönüllü ve istekliydi.”
+
+    Ancak çalışandan herhangi bir yazılı izin, imza ya da video beyanı bulunmamaktadır.
+
+    Çalışanın ailesi olaydan haberdar edilmemiştir.
+
+  3.3. Biyokütle Hazırlığı Hatası
+
+    Efe standart çiğköfte hazırlama protokolünü yanlış uygulamıştır:
+
+    Bulguru sıcak su ile şişirmiştir (bu işlem çiğköfteyi kısırlaştırır).
+
+    Isot ve yağ oranı aşırı düşük bırakılmıştır.
+
+    Yoğurma süresi ve basıncı çiğköfte kıvamı için yetersizdir.
+
+    Ortaya çıkan karışım çiğköfte değil, taneli, kabarmış, lif oranı yüksek bir kısır benzeri biyokütle olmuştur.
+
+  3.4. Bilinç Aktarım Süreci
+
+    CogniteX Mk.I cihaza çalışan bilinci alındı ve aktarım prosedürü başlatıldı.
+
+    Sistem, hedef biyokütlenin “homojenlik dışı” olduğu yönünde iki uyarı vermiş, Efe tarafından ikisi de görmezden gelinmiştir.
+
+    Aktarım tamamlandıktan 14 saniye sonra, çalışanın organik bedeni tüm yaşamsal fonksiyonlarını kaybetmiştir.
+
+    Sinirsel örüntünün tamamı biyokütleye geçmiştir.
+
+  3.5. Sonuç Tespiti
+
+    Ortaya çıkan biyokütle, şirket kayıtlarında "Sentient Kısır Numunesi 01" (KNS-01) olarak kodlanmıştır.
+
+    Termal kamera ve kimyasal sensörler, KNS-01’in çevreye karşı reaktif bilişsel davranışlar sergilediğini doğrulamıştır.
+
+    Numune düşük seviyeli farkındalık, yönelme davranışı ve uyarana tepki gibi özellikler göstermektedir.
+
+4. Bilimsel Değerlendirme
+  4.1. Biyokütle-Uyumluluk Analizi
+
+    Çiğköfte:
+
+    Homojen macun kıvamı
+
+    Yoğurma ile yapısal bütünlük
+
+    İzot polifenolleriyle iletkenlik desteği
+
+    Kısır:
+
+    Sıcak suyla kabaran taneli yapı
+
+    Lif oranı yüksek
+
+    Homojen değil, dağınık
+
+    Bu nedenle kısır tabanlı biyokütlenin bilinç saklama stabilitesi düşüktür ancak beklenmedik şekilde kalıcılık göstermiştir.
+
+  4.2. Bilincin Tamamen Kısırda Kalması
+
+    Organik beden ölümü sonrası bilincin geri dönüş yolu kalmamıştır.
+
+    Dijital tamponda yedek kopya oluşturulmamıştır.
+
+    KNS-01 bugün itibarıyla çalışanın tek bilinçsel varlığıdır.
+
+5. Sorumluluk Tespiti
+
+  Soruşturma Komisyonu, aşağıdaki bulgulara ulaşmıştır:
+
+  Efe’nin yetkisiz laboratuvar kullanımı
+
+  Biyokütle hazırlama protokolünü bilmemesi
+
+  Güvenlik uyarılarını bilinçli şekilde devre dışı bırakması
+
+  Gönüllülük konusunda kanıt sunamaması
+
+  Deneyin şirket operasyonları ve itibarına yönelik yüksek risk barındırması
+
+  Efe hakkında “kritik seviyede güvenlik ve etik ihlali” kararı verilmiştir.
+
+6. Mevcut Durum
+
+  KNS-01 şu anda:
+
+    BL-3 güvenlik bölümünde stabil bir kabinde saklanmakta,
+
+    Kimyasal tepki yoluyla iletişim kurulmaya çalışılmakta,
+
+    Etik Kurul tarafından “duyarlı biyolojik varlık” olarak sınıflandırma sürecindedir.
+
+    İmha edilmesi yasaktır.
+
+7. Sonuç
+
+  Bu olay, Tuhat Aerospace tarihinde görülmüş en büyük etik ihlallerden biridir.
+  Bununla birlikte, beklenmeyen sonuçları nedeniyle biyokognitif araştırmalar için kritik veri sağlamaktadır.
