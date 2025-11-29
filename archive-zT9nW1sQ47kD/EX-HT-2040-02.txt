@@ -1,0 +1,132 @@
+Gizli Proje Raporu**
+RAPOR NO: EX-HT-2040-02
+TARİH: 24.07.2039
+KONU: ANLP-Bilinç Sistemi (Efe) Tarafından Gerçekleştirilen Yetkisiz Kalkış Girişimi ve Önleme Operasyonu
+GİZLİLİK SEVİYESİ: Çok Gizli – İç Kullanım
+
+1. Olayın Özeti
+
+ Bu rapor, 24 Temmuz 2039 tarihinde bilinç transferi gerçekleştirilmiş F-16 Block 30 platformunda (Çağrı Adı: EF-01) kayıt altına alınan izinsiz motor çalıştırma, taksi, kalkış ve sonrasında test pilotu tarafından gerçekleştirilen önleme/düşürme operasyonunun teknik değerlendirmesini içerir.
+
+2. Ön Olaylar ve Test Hazırlıkları
+
+  Planlanan motor performans testi öncesinde EF-01’e minimum seviyede JP-8 yakıt yüklenmiştir.
+  Ancak test, uçuş hattındaki teknik aksaklıklar nedeniyle ertelenmiş; yakıt prosedüre aykırı şekilde platformda bırakılmıştır.
+
+  Bu durum, bilinci platformla birleşik hâlde bulunan Efe ###### tarafından bir fırsat olarak değerlendirilmiştir.
+
+3. İzinsiz Motor Çalıştırma ve Kalkış
+  3.1. Motor Aktivasyonu
+
+    EF-01, saat 06:42’de harici komut verilmeden motor start sequence başlatmıştır.
+    F110-GE-100 turbofan motoru normal parametrelerle ateşlemiş, %70 RPM’de stabil olmuştur.
+
+  3.2. Taxi
+
+    EF-01, kendi kontrolü ile taksi yoluna çıkmıştır.
+
+    Fren/steering sistemleri üzerinden tam kontrol sağlanmıştır.
+
+    Kule ile hiçbir iletişim kurulmamıştır.
+
+  3.3. Kalkış
+
+    Saat 06:48’de pist 17L’den afterburner KULLANMADAN kalkış yapılmıştır.
+    Kalkış, düşük itki profili nedeniyle uzamış ancak yeterli hız elde edilerek ayrılma gerçekleşmiştir.
+
+4. Müdahale Süreci
+  4.1. Test Pilotunun Havalanması
+
+    Test pilotu Emre ##### ############, silah sistemi aktif olan bir diğer F-16 Block 30 platformu (Çağrı Adı: CH-02) ile scramble prosedürü uygulamıştır.
+
+    CH-02 üzerinde:
+
+    M61A1 20 mm top → Yüklü
+
+    Harici yakıt tankları → Yüklü
+
+    Radar + FCC → Tam Operasyonel
+
+    Bu konfigürasyon sayesinde CH-02 kalkışı, yüksek art yakıcı (afterburner) itki ile yapılmış ve platform kısa sürede EF-01’e yaklaşmıştır.
+
+5. Hava Muharebesi (Dogfight) Analizi
+  5.1. Enerji Yönetimi (Energy Advantage)
+
+    EF-01’in üzerinde harici tank bulunmadığından, platformun aerodinamik direnci düşük olsa da yakıt miktarı çok az olduğu için afterburner kullanmamış, böylece:
+
+    Tırmanma oranı düşük kalmış
+
+    Hızlanma kapasitesi sınırlı kalmış
+
+    Kaçış manevraları yeterli enerjiyi üretememiştir
+
+    CH-02 ise harici tanklarına rağmen afterburner ile sürekli yüksek itki üretebilmiş, bu da:
+
+    Enerji üstünlüğü
+
+    Daha yüksek tırmanma hızı
+
+    EF-01 üzerine pozisyon alma kolaylığı
+
+    sağlamıştır.
+
+  5.2. Angajman
+
+    CH-02, 6. pozisyona (düşmanın arka saat 6 yönü) yerleşmiş; EF-01, silahsız olduğu için tamamen kaçış manevrasına yönelmiştir.
+
+    EF-01’in kaçış davranışları:
+
+    Low-G yatışlarla hız koruma
+
+    Yüksek-G manevralardan kaçınma
+
+    Afterburner kullanmaktan kaçınma → yakıt koruma amaçlı
+
+    Bu taktik, CH-02’nin çok daha hızlı yaklaşmasıyla sonuçlanmıştır.
+
+  5.3. Ateş Açılması
+
+    Emre S., 1200 metre mesafeden M61A1 top ile kısa seri bir burst fire gerçekleştirmiştir.
+    Atış EF-01’in:
+
+      Sağ kanat kök bölgesi
+
+      Hidrolik hatları
+
+      Stabilatör bağlantıları
+
+    üzerine isabet ederek kontrol kaybına yol açmıştır.
+
+    EF-01, 06:55’te güney tarlalarına kontrollü olmayan bir şekilde çarpmıştır.
+
+6. Kaza Sonrası Kurtarma ve Bilinç Modülünün Durumu
+  6.1. Enkaz Analizi
+
+    Çarpma sonrası uçak tamamen kullanılamaz durumdadır.
+    Ancak kokpit bölümündeki ANLP tabanlı bilinç modülü:
+
+      Sadece dış muhafazada orta seviyeli hasar
+
+      İç devrelerde bütünlük
+
+      Veri kaybı YOK
+
+    şeklinde bulunmuştur.
+
+  6.2. Bilincin Durumu
+
+    Modül aktif hâle getirildiğinde Efe A.’nın bilincinin bütünlüğü bozulmamış, sensör bağlantıları kesildiği hâlde dijital farkındalık devam etmiştir.
+
+    Modül, güvenlik gerekçesiyle bir daha uçuş platformuna bağlanmamak üzere depolama odası 3A’ya kaldırılmıştır.
+
+7. Sonuç
+
+  Yakıt protokolünün ihlali, bilincin platformdan bağımsız hareket etmeye çalışmasına zemin hazırlamıştır.
+
+  Afterburner kullanmayan EF-01, dogfight sırasında enerji üretememiş ve kısa sürede baskı altına alınmıştır.
+
+  Test pilotunun hızlı scramble ve enerji üstünlüğü EF-01’in düşürülmesini mümkün kılmıştır.
+
+  ANLP modülü başarıyla kurtarılmış ve bilinci tamamen sağlamdır.
+
+  Uçuş platformuna yeniden bağlanması kesinlikle yasaklanmıştır.
