@@ -10,7 +10,6 @@ Rapor Tarihi: 12 Mart 2038
   kontrol kaybına uğramış, sert iniş sonucu parçalanmış, ve araç tamamen kullanılamaz hale gelmiştir.
 
   Pilot, olay sırasında ölmüştür.
-  (İsim gizlilik nedeniyle raporda belirtilmemiştir; şirket iç kayıtlarında mevcuttur.)
 
 2. UÇUŞUN AMACI
 
@@ -28,7 +27,9 @@ Rapor Tarihi: 12 Mart 2038
   Yakıt: %98 dolu
   Motor: HM-5B hibrit roket motoru
   Uçuş Yazılımı: T-OS v3.2 — final sürüm
-  Pilot: Sertifikalı test pilotu, 2.100 saat uçuş deneyimi
+  Pilot: ##### #####, Sertifikalı test pilotu, 2.100 saat uçuş deneyimi
+  Takip Uçağı: F-16C Block 30
+  Takip Uçağı Pilotu: #### Kağan ############, Sertifikalı test pilotu, 1.600 saat uçuş deneyimi
 
   Araç, uçuş öncesi kontrol listesinden geçmiştir.
   Hafif bir yakıt akış gecikmesi daha önce tespit edilmiş ancak tolerans içinde sayılmıştır.
