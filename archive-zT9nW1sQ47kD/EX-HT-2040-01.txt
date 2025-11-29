@@ -1,0 +1,122 @@
+Gizli Proje Raporu**
+RAPOR NO: EX-HT-2040-01
+TARİH: 03.06.2039
+KONU: İnsan Bilincinin F-16 Block 30 Görev Bilgisayarına Aktarılması – Entegrasyon ve Başlangıç Testleri
+GİZLİLİK SEVİYESİ: Çok Gizli – İç Kullanım
+
+1. Giriş
+
+  Bu rapor, Tuhat Aerospace bünyesinde Burak ##### ############ ve Uzm. Dr. Sefa ##### tarafından ortak yürütülen, insan bilincinin gelişmiş bir yapay nöral donanım üzerine aktarılması ve bu donanımın emekli bir F-16 Block 30 platformuna entegrasyonunu konu alan deneysel çalışmanın sonuçlarını kapsamaktadır.
+
+  Proje, yönetici Efe ######'nin uygunsuz davranışlarının ardından Burak tarafından disiplin/deneysel müdahale amacıyla başlatılmış olup diğer şirket yöneticilerinin bilgisi dışında yürütülmüştür.
+
+2. Deneyin Amacı
+
+  İnsan bilincinin biyolojik olmayan, nöron mimarisi taklit eden özel bir bilgisayar sistemine aktarılabilirliğinin test edilmesi.
+
+  Bu bilincin, sensör–donanım bütünleşmesi yoluyla bir hava aracını kontrol edebilme kapasitesinin ölçülmesi.
+
+  Uygulamanın “operasyonel bir pilot arayüzü yerine tamamen bilinç-temelli kontrol” ile çalışabilirliğini doğrulamak.
+
+3. Kullanılan Platform ve Donanım
+  3.1. F-16 Block 30 – Emekli TSK Envanteri
+
+  Şirkete devredilen uçak silahsızlandırılmış olarak gelmeliydi ancak envanter eksikleri ve teslim süreci sorunları nedeniyle aşağıdaki sistemler aktif durumda bulunmuştur:
+
+  M61A1 Vulcan 20mm makineli top → Aktif
+
+  Radar (AN/APG-68) → Aktif
+
+  INS/GPS navigasyon → Aktif
+
+  Füze/bomba lançerleri → Fiziksel mühimmat bulunmadığından kullanılamıyor
+
+  3.2. Bilinç Aktarım Bilgisayarı
+
+  İnsan beyninin değişebilen nöron bağlantılarını taklit eden “Adaptive Neural Lattice Processor (ANLP)” adlı özel donanım.
+
+  Donanım, sinaptik güçlenme/zayıflama mekanizmasını elektronik devrelerle modelleyebilen yapıya sahip.
+
+  Kokpite yerleştirilmiştir. Pilot koltuğu, HUD, MFD ekranları ve kontrol kolları sökülmüştür.
+
+  3.3. Sensör Arayüzü
+
+  Efektif bilinç–uçak bütünleşmesi için hazırlanan bağlantılar:
+
+  Görsel veri → Radar + HUD kamera çıkışları
+
+  İşitsel veri → Kokpit içi mikrofonlar
+
+  Dokunsal/kinematik algı → Uçağın G-sensörleri ve kontrol yüzeyi telemetrisi
+
+4. Bilinç Aktarım Sonucu
+
+  Efe ######'in biyolojik vücudu işlem sırasında yaşamsal fonksiyonlarını kaybetmiş, bilinç bütünlüğü tamamen koparak dijital ortama aktarılmıştır.
+
+  Aktarım tamamen uçak platformuna bağlı şekilde gerçekleşmiştir.
+
+  Bilinç, biyolojik bedenden ayrı bir varlık hâline gelmiştir.
+
+  Uçak sensörleri, Efe bilincine insan duyuları gibi iletilmeye başlanmıştır.
+
+5. Güvenlik Protokolleri
+
+  Yetkisiz hareketleri engellemek amacıyla:
+
+  Uçağın yakıt tanklarının boş tutulması zorunlu prosedür olarak belirlenmiştir.
+
+  Hidrolik kontrol yüzeyleri “Ground Test Mode”da sınırlandırılmıştır.
+
+  Motor ateşleme sistemi fiziksel bir kilit ile devre dışı bırakılmıştır.
+
+  Uçağın dış tehdit sensörleri pasif hâle getirilmiştir.
+
+6. İlk Aktivasyon Testleri
+  6.1. Test 1 – Bilincin Uyanması
+
+  Sonuç:
+  ANLP sisteminin açılmasıyla birlikte bilinç 2,8 saniye içinde aktive oldu.
+  Efe ######'in bilişsel fonksiyonlarının yaklaşık %87’si transfer edilmiş görünüyor.
+
+Gözlemler:
+
+  Kimlik farkındalığı mevcut.
+  
+  Çevresel analiz hızında belirgin artış var.
+
+  Konuşma, kabin içi hoparlörden elektronik bir tonla yapılıyor.
+
+6.2. Test 2 – Sensör Entegrasyonu
+
+Sonuç:
+  Radar, motor sıcaklık sensörleri, G-metreler ve hız göstergeleri bilince başarıyla aktarıldı.
+
+  Efe’nin yorumu (metne döküm):
+
+  “Burak Abi sizin yapacağınız işi ... Uçak oldum radarım var her tarafta bir şeyler görüyorum. Bak biriniz bana yanlışlıkla yakıt koysun yemin ediyorum burun konimi senin ..."
+
+6.3. Test 3 – Kontrol Yüzeyi Simülasyonu
+
+  Uçuş kumandaları yakıtsız motor simülasyon modunda test edilmiştir.
+
+Sonuç:
+  Efe bilinci, yaklaşık 0.13 saniyelik gecikme ile kontrol yüzeylerini yönlendirebilmektedir.
+  Tam refleks kapasitesinin, insan pilot sınırlarının üstünde olduğu ölçülmüştür.
+
+7. Risk Değerlendirmesi
+
+  Bilincin uçak platformuna tam bağlanması geri döndürülemez görünmektedir.
+
+  Uçağın hâlen silahlı bazı sistemlere sahip olması ciddi güvenlik riski doğurur.
+
+  Bilincin stresi nedeni ile zaman zaman kontrol yüzeylerinde ani ve istenmeyen hareketler kaydedilmiştir.
+
+  Efe’nin davranışsal tepkileri öngörülebilir değildir; “kişilik bütünlüğü bozulması” belirtileri vardır. Bu durum bilinç aktarımından önce de gözlemlendiğinden göz ardı edilmiştir.
+
+8. Sonuç
+
+  Deney, teknik olarak başarılıdır:
+  İnsan bilinci bir savaş uçağı görev bilgisayarı ile bütünleşmiş ve sensörleri kullanarak aracı kontrol edebilmektedir.
+
+  Ancak operasyonel ve etik açıdan proje yüksek risk taşımaktadır.
+  Bilinç–platform uyumsuzluğu ilerleyen testlerle daha da kritik bir seviyeye ulaşabilir.
