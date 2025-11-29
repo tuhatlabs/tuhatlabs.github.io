@@ -76,17 +76,19 @@ GİZLİLİK SEVİYESİ: Çok Gizli – İç Kullanım
 
     EF-01’in kaçış davranışları:
 
-    Low-G yatışlarla hız koruma
+     Low-G yatışlarla hız koruma
 
-    Yüksek-G manevralardan kaçınma
+     Yüksek-G manevralardan kaçınma
 
-    Afterburner kullanmaktan kaçınma → yakıt koruma amaçlı
+     Afterburner kullanmaktan kaçınma → yakıt koruma amaçlı olduğu düşünülüyor.
 
     Bu taktik, CH-02’nin çok daha hızlı yaklaşmasıyla sonuçlanmıştır.
 
+    Test Pilotu Emre ##### ############ tarafından üç kez telsiz anonsu yapılmış ancak cevap alınamamıştır.
+
   5.3. Ateş Açılması
 
-    Emre S., 1200 metre mesafeden M61A1 top ile kısa seri bir burst fire gerçekleştirmiştir.
+    Emre ##### ############, 1200 metre mesafeden M61A1 top ile kısa seri bir burst fire gerçekleştirmiştir.
     Atış EF-01’in:
 
       Sağ kanat kök bölgesi
