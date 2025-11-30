@@ -1,4 +1,4 @@
-Deney Adı: İnsan Vücüdunda Elektrik Depolama Deneyi
+Deney Adı: İnsan Vücudunda Elektrik Depolama Deneyi
 Sorumlu Araştırmacı: Burak ##### ############
 Denek: İkra ### ##########
 
