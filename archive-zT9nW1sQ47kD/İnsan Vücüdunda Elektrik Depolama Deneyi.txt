@@ -1,0 +1,22 @@
+Deney Adı: İnsan Vücüdunda Elektrik Depolama Deneyi
+Sorumlu Araştırmacı: Burak ##### ############
+Denek: İkra ### ##########
+
+Deneyin Amacı:
+  Geliştirilen prototip cihaz kullanılarak insan vücudunda geçici ve kontrollü elektriksel potansiyel farkı depolanabilirliğinin test edilmesi.
+
+Deneyin Yöntemi:
+  Denek İkra, cihazın temas elektrotlarına her iki eliyle aynı anda temas ettirilerek işlem başlatılmıştır. Cihaz, düşük akımlı ve güvenli seviyede bir elektrik yüklemesi yapacak şekilde ayarlanmıştır.
+
+Gözlemler:
+
+  İşlem sonrası deneğin vücudunda yaklaşık 5V düzeyinde bir potansiyel fark ölçülmüştür.
+
+  Depolanan potansiyel farkı, zaman içinde düzenli olarak azalmış ve 26 saat sonra tamamen sıfırlanmıştır.
+
+  Deney süresince ve sonrasında herhangi bir fiziksel, nörolojik veya davranışsal yan etki gözlemlenmemiştir.
+
+  Denek normal günlük aktivitelerine devam etmiş, potansiyel farkın azalması dışındaki bir değişiklik rapor edilmemiştir.
+
+Sonuç:
+  Prototip cihaz, insan vücudunda geçici elektrik depolanmasını güvenli bir şekilde gerçekleştirmeyi başarmıştır. Depolanan enerji düşük seviyede olmasına rağmen, mekanizma beklenen şekilde çalışmıştır. Deney başarılı olarak değerlendirilmiştir.
