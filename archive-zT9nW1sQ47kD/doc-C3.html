@@ -25,6 +25,17 @@ body {
 Пароль от компьютера в комнате<br>
 </p>
 
+<audio id="bgm" src="stalker.mp3" loop muted autoplay></audio>
+
+<script>
+  // Kullanıcı sayfaya bir kez tıklayınca sesi aç
+  window.addEventListener("click", () => {
+    const bgm = document.getElementById("bgm");
+    bgm.muted = false;
+    bgm.volume = 0.5; // Ses seviyesi (0.0 - 1.0)
+  }, { once: true });
+</script>
+
 
 
 </body>
